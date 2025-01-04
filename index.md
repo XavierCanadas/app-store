@@ -8,7 +8,7 @@ This privacy policy describes how Count Events ("we", "our", "the application") 
 
 ## Information Collection and Use
 
-Our application **does not collect**, store, or transmit any type of personal information or user data. All functionality runs locally on your device.
+Our application **does not collect, store, or transmit any type of personal information or user data**. All functionality runs locally on your device.
 
 ## Locally Stored Data
 
